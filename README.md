@@ -1,7 +1,4 @@
 # Hi there, We are NKU Technologies 👋
-we help our customers manage their entire IT needs, from a high-quality product suite, cutting-edge consulting solutions, to a single-window IT solution. We stake our reputation on each and every project we complete. We stand behind the outcome because your business matters to us. Our business is your business.
-
-
 
 <p align="center">
 <a href="https://github.com/nkutechologies"><img src="https://readme-typing-svg.herokuapp.com?lines=We+are+help+our customers+To manage their entire IT needs;from+quality+suite;cutting-edge;consulting+solutions&center=true&width=500&height=50"></a>
