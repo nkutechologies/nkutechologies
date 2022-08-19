@@ -1,7 +1,5 @@
 # Hi there, We are NKU Technologies 👋
 
-<p align="center">
-<a href="https://github.com/nkutechologies"><img src="https://readme-typing-svg.herokuapp.com?lines=We+are+help+our customers+To manage their entire IT needs;from+quality+suite;cutting-edge;consulting+solutions&center=true&width=500&height=50"></a>
 # Bootcamp alert
 - [Data Structures and Algorithms Bootcamp](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) is going on.
 
