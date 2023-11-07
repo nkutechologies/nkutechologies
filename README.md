@@ -131,15 +131,5 @@
 
 
     
-## My Activities :mailbox_with_mail:
-
-| BOOTCAMPS & SESSIONS :tv: | 
-| :--- |
-| [Deep Learning with Tensorflow ](https://github.com/dscuol/Deep-Learning-Course) |
-| [Machine Learning Course](https://github.com/dscuol/Machine-Learning-Course) |
-| [Web Development Bootcamp](https://github.com/dscuol/Web-Development-Bootcamp) | 
-| [Advanced Web Development Bootcamp](https://github.com/dscuol/Advanced-web-development-series) | 
-| [NLP Bootcamp](https://github.com/dscuol/Natural-Language-Processing-Bootcamp) | 
-| [DSA Bootcamp C++](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) (Current) | 
 
 
