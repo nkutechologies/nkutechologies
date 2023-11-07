@@ -1,6 +1,6 @@
 # Hi there, We are NKU Technologies 👋
 
-<img align="right" alt="" src="bootcamp.jpeg" width="350" height="350" />
+<img align="right" alt="" src="https://nkutechnologies.com/wp-content/uploads/2021/06/nku-technologies.jpg" width="350" height="350" />
 
 ## My Backend Engineering Show
 
