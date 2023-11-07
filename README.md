@@ -161,26 +161,4 @@
 | [NLP Bootcamp](https://github.com/dscuol/Natural-Language-Processing-Bootcamp) | 
 | [DSA Bootcamp C++](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) (Current) | 
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
 
-<p align="center">
-<a href="https://github.com/nkutechologies">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nkutechologies&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nkutechologies&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=nkutechologies&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-</p>
-</p>
-
-# Github Contributions
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
-
-# Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/saadhaxxan/saadhaxxan/blob/master/github-metrics.svg" />
-</p>
