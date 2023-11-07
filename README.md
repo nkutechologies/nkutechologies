@@ -2,8 +2,6 @@
 
 <img align="right" alt="" src="https://nkutechnologies.com/wp-content/uploads/2021/06/nku-technologies.jpg" width="350" height="350" />
 
-## My Backend Engineering Show
-
 ### We are Technology Company!
 - 🔭 I’m currently working as Backend and Infrastructure Engineer.
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps.
