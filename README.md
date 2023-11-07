@@ -1,14 +1,10 @@
 # Hi there, We are NKU Technologies 👋
 
-# Bootcamp alert
-- [Data Structures and Algorithms Bootcamp](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) is going on.
-
 <img align="right" alt="" src="bootcamp.jpeg" width="350" height="350" />
 
 ## My Backend Engineering Show
-- [The Backend Engineering Show with Saad Hassan](https://www.youtube.com/playlist?list=PLx8CItc_kq60ORFN7NVaD2xae_WystDOa)
 
-### I'm a Developer, Teacher and Researcher!
+### We are Technology Company!
 - 🔭 I’m currently working as Backend and Infrastructure Engineer.
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
@@ -135,19 +131,9 @@
 <a href="https://www.instagram.com/nkutech/"><img src="https://img.shields.io/badge/-@nkutechnologies-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/nkutech"><img src="https://img.shields.io/badge/-@nkutech-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
-## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadhaxxan&theme=xcode)](https://github.com/saadhaxxan)
 
-## Some Community Projects
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**Awesome Python Projects**](https://github.com/saadhaxxan/Awesome-Python-Projects) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Awesome-Python-Projects?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Awesome-Python-Projects/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Awesome-Python-Projects?style=flat&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Awesome-Python-Projects?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Awesome-Python-Projects/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Learn_Machine_Learning_in_5_Months**](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn_Machine_Learning_in_5_Months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn_Machine_Learning_in_5_Months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn_Machine_Learning_in_5_Months/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Python For Ethical Hacking**](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Python-For-Ethical-Hacking?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Python-For-Ethical-Hacking?style=flat&logo=github)](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Python-For-Ethical-Hacking?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Python-For-Ethical-Hacking/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Learn-Data-Science-in-3-months**](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn-Data-Science-in-3-months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn-Data-Science-in-3-months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn-Data-Science-in-3-months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn-Data-Science-in-3-months/pulls?q=is%3Apr+is%3Aclosed)   |
-| [**Learn Blockchain in 3 months**](https://github.com/saadhaxxan/Learn-Blockchain-in-3-months) | [![GitHub issues](https://img.shields.io/github/issues/saadhaxxan/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/saadhaxxan/Learn-Blockchain-in-3-months/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadhaxxan/Learn-Blockchain-in-3-months?style=flat&logo=github)](https://github.com/saadhaxxan/Learn-Blockchain-in-3-months/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadhaxxan/Learn-Blockchain-in-3-months?style=flat&color=critical&logo=github)](https://github.com/saadhaxxan/Learn-Blockchain-in-3-months/pulls?q=is%3Apr+is%3Aclosed)   |
     
 ## My Activities :mailbox_with_mail:
 
