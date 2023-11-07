@@ -1,13 +1,11 @@
 # Hi there, We are NKU Technologies 👋
 
-<img align="right" alt="" src="https://nkutechnologies.com/wp-content/uploads/2021/06/nku-technologies.jpg" width="350" height="200" />
+<img align="right" alt="" src="https://nkutechnologies.com/wp-content/uploads/2021/06/nku-technologies.jpg" width="300" height="200" />
 
 ### We are Technology Company!
-- 🔭 I’m currently working as Backend and Infrastructure Engineer.
-- 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 2k students.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- **Technology Expertise:** Our core strengths lie in Backend and Infrastructure Engineering, with extensive knowledge in Data Engineering, DevOps, Artificial Intelligence, and Machine Learning.
+- **Collaboration:** We're enthusiastic about collaborating with content creators and developers to create impactful and future-forward projects.
+
 
 <h2><i>💻 Tech Stack</i></h2>
 
